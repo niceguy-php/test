@@ -1,3 +1,2 @@
-aabcc
-eee
-aaaa
+aabcceeeaa
+ccddee
